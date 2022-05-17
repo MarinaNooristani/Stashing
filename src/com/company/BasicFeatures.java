@@ -4,6 +4,6 @@ public class BasicFeatures {
     String engineCap;
     String color;
     String doors;
-    String highlights;
+    String headlights;
     String regno;
 }
